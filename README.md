@@ -159,7 +159,7 @@ The project demonstrates work and learning across:
 ## Project Contribution
 
 **Max Collins Botchway**  
-Software Engineer / Cybersecurity Professional
+Software Engineer | Cybersecurity Background
 
 NETSHIELD combines my software-development direction with my cybersecurity background and ongoing work in secure-system design, identity, trust, fraud prevention, and AI-assisted security concepts.
 
